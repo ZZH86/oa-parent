@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service_oa
+  profiles:
+    active: dev
